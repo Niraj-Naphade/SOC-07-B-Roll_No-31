@@ -1,0 +1,7 @@
+# macOS Finder files
+.DS_Store
+
+# C++ generated files
+*.o
+*.dSYM/
+a.out
